@@ -2,6 +2,11 @@ body{
   font-size: 2rem;
 }
 
+h2{
+  color: black !important;
+  border-top: 2px solid blue;
+}
+
 #produtos{
   color: lightgreen
 }
@@ -22,3 +27,4 @@ html body section h2{
 body section#intro j2{
   border-left: 8px solid lightsalmon;
 }
+
