@@ -2,7 +2,23 @@ body{
   font-size: 2rem;
 }
 
+#produtos{
+  color: lightgreen
+}
+
+.titulo.teste{
+  color: blue ;
+}
+
 .titulo{
   color: tomato;
   padding: 10px;
+}
+
+html body section h2{
+  border-left: 8px solid lightgreen;
+}
+
+body section#intro j2{
+  border-left: 8px solid lightsalmon;
 }
